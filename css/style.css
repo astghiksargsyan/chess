@@ -1,0 +1,129 @@
+#wrapper{
+	margin: 0 auto;
+	width: 100%;
+	border:1px solid black;
+	background-color: #707070;
+	
+}
+article{
+	width:70%;
+}
+aside{
+	width: 20%;
+	
+}
+aside, article{
+	float:left;
+	border:1px solid black;
+	border-radius: 15px;
+	height: 500px;
+	padding:15px;
+	margin:15px;
+	background-color: #f9f9f9;
+	box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+footer, header{
+	padding: 5px;
+	text-align: center;
+	clear: both;
+	background-color: #f9f9f9;
+	
+}
+header{
+	border-bottom: 1px solid black;
+}
+footer{
+	border-top: 1px solid black;
+}
+#che{
+	width: 75%;
+	margin:0 auto;
+	
+}
+.white, .black, .ABC{
+	width: 8%;
+	height: 50px;
+	float:left;
+	border:1px solid black;
+	box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+
+.ABC{
+	background-color:#e4e4e4;
+	text-align: center;
+}
+
+.white{
+	background-color: #f9f9f9;
+}
+.black{
+	background-color: #707070;
+}
+.clear{
+	clear: both;
+}
+img{
+	height:100%;
+	width: 100%;
+}
+/*
+.bishopBL{
+	background-image:url("../img/bishopBl.png");
+	background-repeat: no-repeat;
+	background-position: center; 
+}
+.knightBL{
+	background-image:url("../img/knightBL.png");
+	background-repeat: no-repeat;
+	background-position: center; 
+}
+.castleBL{
+	background-image:url("../img/castleBL.png");
+	background-repeat: no-repeat;
+	background-position: center; 
+}
+.kingBL{
+	background-image:url("../img/kingBL.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.queenBL{
+	background-image:url("../img/queenBL.png");
+	background-repeat: no-repeat;
+	background-position: center; 
+}
+.pawnBL{
+	background-image:url("../img/pawnBL.png");
+	background-repeat: no-repeat;
+	background-position: center; 
+}
+.bishopWH{
+	background-image:url("../img/bishopWH.png");
+	background-repeat: no-repeat;
+	background-position: center; 
+}
+.knightWH{
+	background-image:url("../img/knightWH.png");
+	background-repeat: no-repeat;
+	background-position: center; 
+}
+.castleWH{
+	background-image:url("../img/castleWH.png");
+	background-repeat: no-repeat;
+	background-position: center; 
+}
+.kingWH{
+	background-image:url("../img/kingWH.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.queenWH{
+	background-image:url("../img/queenWH.png");
+	background-repeat: no-repeat;
+	background-position: center; 
+}
+.pawnWH{
+	background-image:url("../img/pawnWH.png");
+	background-repeat: no-repeat;
+	background-position: center; 
+}*/
